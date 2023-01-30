@@ -1,6 +1,6 @@
 {
   "name": "lzg-ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "lzg组件库学习",
   "main": "dist/insex.umd.js",
   "keywords": [

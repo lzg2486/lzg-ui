@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<l-card imgSrc="/logo.png" summary="Vue"/>
+<l-card imgSrc="/lzg-ui/logo.png" summary="Vue"/>
 
 ### 代码
 ```html
