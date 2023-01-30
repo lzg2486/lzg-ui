@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/lzg-ui/',
+  base: './',
   themeConfig: {
     sidebar: [
       '/',
